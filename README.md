@@ -1,5 +1,5 @@
 # onlinestore
-Code for a website for an online store built using PHP, Javascript, HTML, CSS, and SQL.
+This project is a website built using PHP, Javascript, HTML, CSS, and SQL.
 
 A duo project for Database Design class.
 
